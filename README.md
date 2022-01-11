@@ -3,7 +3,7 @@
 * Bilgisayar Mühendisliği tasarım dersi için hazırlanmış bir projedir.<br>
 * Projenin kodları Türkçe olarak yazılmıştır.<br>
 * Projede İngilizce'ye ani durumlarda ihtiyaç duyulması durumunda kullanılması için search butonu eklenmiştir.<br>
-* Projenin asıl amacı İngilizce'ye ihtiyaç duyulduğu durumlarda ve kişisel gelişimde her gün kendine yeni kelimeler kazanılmasını sağlamaktır.<br>
+* Projenin asıl amacı İngilizce'ye ihtiyaç duyulduğu durumlardan çok kişisel gelişimde her gün yeni kelimeler kazanılmasını sağlamaktır.<br>
 * Her kelime birbirinden bağımsız SQLite veri tabanında tutulmaktadır.<br>
 * Sorgu sonucu aranan kelime onClick metodu ile türkçeleştirilip görüntülenir.<br>
 * Sorgulanacak kelimeler kayıt altında tutulur,sorgulanan kelimeler kullan-at metodu ile RAM kullanmaması açısından kayıtlardan silinir.<br>
