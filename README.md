@@ -1,8 +1,8 @@
 # Dictionary
 
 * Bilgisayar Mühendisliği tasarım dersi için hazırlanmış bir projedir.<br>
-* Projenin kodları türkçe olarak yazılmıştır.<br>
-* Projede ingilizceye ani durumlarda ihtiyaç duyulması durumunda kullanılması için search butonu eklenmiştir.<br>
+* Projenin kodları Türkçe olarak yazılmıştır.<br>
+* Projede İngilizce'ye ani durumlarda ihtiyaç duyulması durumunda kullanılması için search butonu eklenmiştir.<br>
 * Projenin asıl amacı ingilizceye ihtiyaç duyulduğu durumlardan çok kişisel gelişimde her gün kendine yeni kelimeler kazanılmasını sağlamaktır.<br>
 * Her kelime birbirinden bağımsız SQLite veri tabanında tutulmaktadır.<br>
 * Sorgu sonucu aranan kelime onClick metodu ile türkçeleştirilip görüntülenir.<br>
