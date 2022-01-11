@@ -1,5 +1,14 @@
 # Dictionary
 
+* Bilgisayar Mühendisliği tasarım dersi için hazırlanmış bir projedir.<br>
+* Projenin kodları türkçe olarak yazılmıştır.<br>
+* Projede ingilizceye ani durumlarda ihtiyaç duyulması durumunda kullanılması için search butonu eklenmiştir.<br>
+* Projenin asıl amacı ingilizceye ihtiyaç duyulduğu durumlardan çok kişisel gelişimde her gün kendine yeni kelimeler kazanılmasını sağlamaktır.<br>
+* Her kelime birbirinden bağımsız SQLite veri tabanında tutulmaktadır.<br>
+* Sorgu sonucu aranan kelime onClick metodu ile türkçeleştirilip görüntülenir.<br>
+* Sorgulanacak kelimeler kayıt altında tutulur,sorgulanan kelimeler kullan-at metodu ile RAM kullanmaması açısından kayıtlardan silinir.<br>
+* Veri tabanından sorgulanan kelimeler layout itemIdlerine bağlı olarak tıklanma sonucu listelenir.<br>
+
 App Images
 --------------
 <p align="center">
